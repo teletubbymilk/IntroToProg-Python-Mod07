@@ -13,9 +13,9 @@ This week, I started by writing pseudo codes and guides for my script for struct
 I demonstrated my understanding for structured error handling in three ways. First is just printing a customized message when the code does not work, by using the try and except function. Another way was to print the message but also show what type of error occurred. 
 
 ## Running the script
-First, I ran the script in PyCharm to check if it is running correctly. (Figure 4&5)
+First, I ran the script in PyCharm to check if it is running correctly. 
 
-I also ran the script in Command Shell/ Terminal to check that it also runs on the computer. To test this script on terminal, I searched for terminal on spotlight search. Then I copied the file path on the terminal and ran it through python. (Figure 6&7)
+I also ran the script in Command Shell/ Terminal to check that it also runs on the computer. To test this script on terminal, I searched for terminal on spotlight search. Then I copied the file path on the terminal and ran it through python. 
 
 ## Summary
 By going through the module course notes and reading the python programming book, I was able to successfully create a python script that shows how to use pickling and structured error handling. This program demonstrates my understanding of how to use text files, binary files, and error handling. 
